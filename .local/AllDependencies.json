@@ -6528,15 +6528,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\md.jewel\\.nuget\\packages\\": {}
+    "C:\\Users\\Jewel\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "A100_UNATT_BD_Customer HashCode Update",
       "projectName": "A100_UNATT_BD_Customer HashCode Update",
-      "projectPath": "C:\\Users\\md.jewel\\Documents\\UiPath\\A100_UNATT_BD_Customer HashCode Update\\.local",
-      "packagesPath": "C:\\Users\\md.jewel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\md.jewel\\Documents\\UiPath\\A100_UNATT_BD_Customer HashCode Update\\.local"
+      "projectPath": "P:\\uipath\\A100_UNATT_BD_Customer-HashCode-Update\\.local",
+      "packagesPath": "C:\\Users\\Jewel\\.nuget\\packages\\",
+      "outputPath": "P:\\uipath\\A100_UNATT_BD_Customer-HashCode-Update\\.local"
     },
     "frameworks": {
       "net461": {
@@ -6567,7 +6567,7 @@
             "version": "[22.4.4, 22.4.4]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\md.jewel\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Jewel\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
